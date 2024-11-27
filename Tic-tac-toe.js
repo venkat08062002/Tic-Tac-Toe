@@ -68,7 +68,7 @@ function announceTie() {
 
 // Function to reset the game
 function resetGame() {
-    window.location="Index.html"
+    window.location="index.html"
 }
 
 // Add event listeners to each tile
